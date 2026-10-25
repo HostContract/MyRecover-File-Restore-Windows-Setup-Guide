@@ -1,0 +1,33 @@
+{
+  "repo": "MyRecover-File-Restore-Windows-Setup-Guide",
+  "product": "MyRecover File Restore \u2014 Windows Setup Guide",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-1-part-powershell-70",
+  "format": "license-md-geogit-v4-seo-product",
+  "category": "data recovery",
+  "topics": [
+    "myrecover-file-restore-windows-setup-guide",
+    "myrecover-windows",
+    "windows-10",
+    "windows-11",
+    "windows-desktop",
+    "data-recovery-software",
+    "file-restore",
+    "backup-scan",
+    "device-recovery",
+    "myrecover-software",
+    "myrecover-2026",
+    "desktop-software",
+    "windows-software",
+    "software-install",
+    "install-guide"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
